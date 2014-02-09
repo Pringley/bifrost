@@ -8,6 +8,10 @@ A burning rainbow bridge between scripting languages.
 
 -   Ruby: [RuBifrost](https://github.com/Pringley/rubifrost)
 
+## Paper
+
+An academic paper describing Bifrost is included under the `paper/` directory.
+
 ## Copyright
 
 Copyright (c) 2013 Ben Pringle
