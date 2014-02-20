@@ -7,7 +7,7 @@ bibliography: references.bib
 
 #### Abstract {-}
 
-A simple strategy is presented for dynamically intepreting remote procedure
+A simple strategy is presented for dynamically interpreting remote procedure
 calls in scripting languages, resulting in the ability to transparently use
 libraries from both languages in a single program. The protocol described
 handles complex, nested arguments and object-oriented libraries.
